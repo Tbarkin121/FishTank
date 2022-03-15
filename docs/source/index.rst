@@ -1,5 +1,5 @@
 Welcome to Fish Tanks's documentation!
-===================================
+=======================================
 
 **Fish Tank** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
