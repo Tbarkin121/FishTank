@@ -1,0 +1,6 @@
+sphinx
+ipykernel
+nbsphinx
+sphinx-gallery
+pyvista
+ipyvtklink

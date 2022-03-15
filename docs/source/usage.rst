@@ -32,3 +32,8 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Test Image
+----------
+
+.. image:: _static/img/test_img.jpg
+   :target: https://tylerbarkin.com

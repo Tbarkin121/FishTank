@@ -17,6 +17,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'nbsphinx',
+    'sphinx_gallery.load_style',
 ]
 
 intersphinx_mapping = {
@@ -45,3 +47,4 @@ html_css_files = [
 
 
 html_logo = "_static/img/logo.jpg"
+
